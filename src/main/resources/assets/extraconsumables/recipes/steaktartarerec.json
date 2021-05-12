@@ -1,0 +1,16 @@
+{
+  "group": "extraconsumables",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:beef"
+    },
+    {
+      "item": "minecraft:egg"
+    }
+  ],
+  "result": {
+    "item": "extraconsumables:steaktartare",
+    "count": 1
+  }
+}

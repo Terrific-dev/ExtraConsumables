@@ -1,0 +1,16 @@
+{
+  "group": "extraconsumables",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "extraconsumables:rawpuffpastry"
+    },
+    {
+      "item": "extraconsumables:darkchocolate"
+    }
+  ],
+  "result": {
+    "item": "extraconsumables:rawchocolatebread",
+    "count": 2
+  }
+}
