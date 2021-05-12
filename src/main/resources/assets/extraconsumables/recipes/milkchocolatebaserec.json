@@ -1,0 +1,16 @@
+{
+  "group": "extraconsumables",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "extraconsumables:darkchocolatebase"
+    },
+    {
+      "item": "extraconsumables:cocoabutter"
+    }
+  ],
+  "result": {
+    "item": "extraconsumables:milkchocolatebase",
+    "count": 1
+  }
+}

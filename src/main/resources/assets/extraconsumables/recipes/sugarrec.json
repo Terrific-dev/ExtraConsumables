@@ -1,0 +1,13 @@
+{
+  "group": "extraconsumables",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "extraconsumables:sugarblock"
+    }
+  ],
+  "result": {
+    "item": "minecraft:sugar",
+    "count": 9
+  }
+}

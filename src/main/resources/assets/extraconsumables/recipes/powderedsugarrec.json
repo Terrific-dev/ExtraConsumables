@@ -1,0 +1,16 @@
+{
+  "group": "extraconsumables",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "extraconsumables:powderedsugar",
+    "count": 4
+  }
+}

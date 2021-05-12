@@ -1,0 +1,22 @@
+{
+  "group": "extraconsumables",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "extraconsumables:powderedsugar"
+    },
+    {
+      "item": "extraconsumables:powderedsugar"
+    },
+    {
+      "item": "extraconsumables:powderedsugar"
+    },
+    {
+      "item": "extraconsumables:powderedsugar"
+    }
+  ],
+  "result": {
+    "item": "minecraft:sugar",
+    "count": 1
+  }
+}

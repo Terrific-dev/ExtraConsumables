@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PowderedSugar"
+      },
+      {
+        "value": "CUSTOM:PowderedSugar"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PowderedSugar"
+      },
+      {
+        "value": "CUSTOM:PowderedSugar"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.SUGAR"
+    },
+    "name": "powsugarrec",
+    "namespace": "mod"
+  }
+}
